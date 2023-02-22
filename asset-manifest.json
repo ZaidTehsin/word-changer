@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/word-changer/static/css/main.71eff591.css",
+    "main.js": "/word-changer/static/js/main.bfe09033.js",
+    "static/js/787.8437ea4a.chunk.js": "/word-changer/static/js/787.8437ea4a.chunk.js",
+    "index.html": "/word-changer/index.html",
+    "main.71eff591.css.map": "/word-changer/static/css/main.71eff591.css.map",
+    "main.bfe09033.js.map": "/word-changer/static/js/main.bfe09033.js.map",
+    "787.8437ea4a.chunk.js.map": "/word-changer/static/js/787.8437ea4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71eff591.css",
+    "static/js/main.bfe09033.js"
+  ]
+}
